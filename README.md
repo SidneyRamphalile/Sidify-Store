@@ -1,7 +1,7 @@
 # Sidify-Store
 An ecommerce web application where people can seamlessly buy products online and then securely make payments using the Stripe payment gateway.
 
-In this project, I used HTML, Tailwind CSS, Shadcn/iu and Next.js for my FrontEnd. And then I used Sanity.io to manage my BackEnd. The payment system used is called Stripe. It is a global payment gateway system where people can securely make online transactions.
+In this project, I used HTML, Tailwind CSS, Shadcn/iu, TypeScript and Next.js for my FrontEnd. And then I used Sanity.io to manage my BackEnd. The payment system used is called Stripe. It is a global payment gateway system where people can securely make online transactions.
 
 The target group of my project are men, women, and teenagers, people who have a heart for clothes shopping and fassion, and people who are into sportsware. 
 
