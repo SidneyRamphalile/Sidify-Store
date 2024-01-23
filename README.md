@@ -5,7 +5,7 @@ In this project, I used HTML, Tailwind CSS, Shadcn/ui, TypeScript and Next.js fo
 
 The target group of my project are men, women, and teenagers, people who have a heart for clothes shopping and fassion, and people who are into sportsware. 
 
-The benefit of using this web application ecommerce store is that you can do shopping at the comfort of your own house, and at the convenience of your own time. You can avoid long traffic jams on the road and log queues at a physical store. The best part is that you don't have to go through the trouble of creating an account and havving to login before making a purchase, you simply add your desired item into the shopping cart, go to checkout, make your payment and wait as your product gets delivered on your doorstep. 
+The benefit of using this web application ecommerce store is that you can do shopping at the comfort of your own house, and at the convenience of your own time. You can avoid long traffic jams on the road and long queues at a physical store. The best part is that you don't have to go through the trouble of creating an account and havving to login before making a purchase, you simply add your desired item into the shopping cart, go to checkout, make your payment and wait as your product gets delivered on your doorstep. 
 
 # Installation Instructions:
 
